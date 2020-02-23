@@ -299,29 +299,38 @@ textarea{
 
 @media screen and (max-width: 980px){
     #me-myself{
-        width: 850px;
+        width: 500px;
+        margin-left: 5%;
     }
     #bio-box{
-        width: 830px;
+        width: 480px;
+    }
+    #self-image{
+        height: 150px;
+        width: 150px;
+    }
+    .index-bio{
+        font-size: .8rem;
     }
     #contain-this{
-        width: 850px;
+        width: 500px;
         height: 400px;
+        margin-left: 5%;
     }
     textarea{
-        width: 830px;
-        height: 130px;
+        width: 480px;
+        height: 100px;
     }
     
     .info-input{
-        width: 830px;
+        width: 480px;
         height: 25px;
     }
     #ctc-box{
-        width: 830px;
+        width: 480px;
     }
     #submit-btn{
-        margin-right: 8in;
+        margin-right: 4.5in;
     }
     #pbox{
         width: 850px;
@@ -469,13 +478,14 @@ textarea{
     }
     #me-myself{
         width: 500px;
+        height: 500px;
     }
     #self-image{
-        width: 75px;
-        height: 100px;
+        width: 480px;
+        height: 200px;
     }
     .index-bio{
-        font-size: .75rem;
+        font-size: .7rem;
     }
     #bio-box{
         width: 480px;
